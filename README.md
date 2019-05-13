@@ -1,3 +1,3 @@
-# machinelearning
+# Machine Learning
 
 test
