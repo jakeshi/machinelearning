@@ -1,3 +1,5 @@
 # Machine Learning
 
-test
+## Summary
+
+Example of some simple ML concepts and algorithms
